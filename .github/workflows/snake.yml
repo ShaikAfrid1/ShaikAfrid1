@@ -1,0 +1,24 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: Generate Snake Animation
+        run: |
+          mkdir -p dist
+          curl -L https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake.svg
+          curl -L https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg -o dist/github-contribution-grid-snake-dark.svg
