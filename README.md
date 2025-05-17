@@ -45,4 +45,4 @@
 - 🔥 Active in GitHub community and continuously pushing code.
 
 # ✨ Fun Fact:
-🚀 I believe that great UI is the first impression of a great user experience.
+🚀 I choose to code because I thrive on solving problems — every bug is just a puzzle waiting to be cracked.
