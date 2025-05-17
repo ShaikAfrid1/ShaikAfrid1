@@ -5,9 +5,9 @@
 💡 I enjoy working on fun mini projects that not only challenge me but also showcase my creativity.<br>
 
 # 🌐 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaikafrid1)
-- 📧 [Email](mailto:shaikafrid1@gmail.com)
-- 🌐 [Portfolio](https://shaikafrid1.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/afrid-shaik-7169521a0/)
+- 📧 [Email](mailto:shaikafrid500@gmail.com)
+- 💬 [Instagram](https://www.instagram.com/afrid_awesome/)
 
 # 🚀 My Skill Set:
 ### 💻 Languages:
@@ -22,12 +22,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-# 💖 My Favorite Projects:
-- 🚀 [Color Changer Button](https://shaikafrid1.github.io/color-changer-button/) - A fun project that changes background colors with a click.
-- 🎵 Music Player (JavaScript, OOP - In Progress) - A feature-rich music player with playlist and song management.
-- 🎯 Button that Never Lets You Click - A playful project where the button avoids being clicked.
-- 📊 Productivity Dashboard - A clean, organized dashboard to track your tasks and goals.
-- 📐 BMI Calculator - A calculator to quickly check your Body Mass Index.
 
 # 📊 GitHub Stats:
 ![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikafrid1&show_icons=true&theme=radical)
