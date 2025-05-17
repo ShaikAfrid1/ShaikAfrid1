@@ -11,17 +11,16 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-
-      - name: Generate Snake Animation (Light)
-        uses: Platane/snk@v2
+        
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          github_user_name: ShaikAfrid1
-          outputs: dist/snake.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 16
 
-      - name: Generate Snake Animation (Dark)
-        uses: Platane/snk@v2
-        with:
-          github_user_name: ShaikAfrid1
-          outputs: dist/snake-dark.svg?palette=github-dark
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Snake Animation (Light Mode)
+        run: |
+          curl -o dist/github-contribution-grid-snake.svg https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg
+
+      - name: Generate Snake Animation (Dark Mode)
+        run: |
+          curl -o dist/github-contribution-grid-snake-dark.svg https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg
