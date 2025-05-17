@@ -33,10 +33,11 @@ I don’t just write code — I craft experiences. Let’s create something amaz
 # ⚡ GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 # 🏆 Achievements:
