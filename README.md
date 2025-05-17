@@ -38,8 +38,6 @@ I don’t just write code — I craft experiences. Let’s create something amaz
   <img alt="GitHub Contribution Snake" src="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
 # 🏆 Achievements:
 - 🌟 Completed multiple Frontend Projects.
 - 🎯 Consistently exploring and learning new technologies.
