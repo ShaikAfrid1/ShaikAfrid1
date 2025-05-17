@@ -1,8 +1,12 @@
 # 💫 About Me:
-👋 Hello! I'm Afrid, a passionate Frontend Developer who loves creating visually stunning and user-friendly web experiences.<br>
-🚀 I specialize in building dynamic, responsive websites using HTML, CSS, JavaScript, and React.<br>
-🌱 Currently, I’m sharpening my skills in React and exploring the world of Frontend Development.<br>
-💡 I enjoy working on fun mini projects that not only challenge me but also showcase my creativity.<br>
+## About Me
+
+I’m Afrid — a passionate Frontend Developer with a knack for turning complex problems into clean, efficient code. With solid skills in React, JavaScript, SCSS, and modern CSS frameworks like Tailwind and Bootstrap, I build responsive, user-friendly web apps that don’t just work, but impress.
+
+Constantly learning, always improving, and never settling — I write code that’s both elegant and battle-tested. If you want clean UI, slick UX, and fast performance, I’m your dev.
+
+Let’s build the future, one line of code at a time.
+
 
 # 🌐 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/afrid-shaik-7169521a0/)
