@@ -27,8 +27,14 @@
 ![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikafrid1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafrid1&layout=compact&theme=radical)
 
-# ⚡ GitHub Contribution Snake:
-![GitHub Snake](https://github.com/shaikafrid1/shaikafrid1/blob/output/github-contribution-grid-snake.svg)
+# ⚡ GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/ShaikAfrid1/shaikafrid1/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 # 🏆 Achievements:
 - 🌟 Completed multiple Frontend Projects.
