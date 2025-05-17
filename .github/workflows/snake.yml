@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily run
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation (Light)
+        uses: Platane/snk@v2
+        with:
+          github_user_name: shaikafrid1
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Generate Snake Animation (Dark)
+        uses: Platane/snk@v2
+        with:
+          github_user_name: shaikafrid1
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
