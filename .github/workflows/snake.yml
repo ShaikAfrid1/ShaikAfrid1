@@ -1,24 +1,28 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"  # Runs daily
-  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout the code
         uses: actions/checkout@v3
-        
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-      
+
       - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ShaikAfrid1
+          output: dist/github-contribution-grid-snake.svg
+          dark_output: dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push Snake Animation to Repo
         run: |
-          mkdir -p dist
-          curl -L https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake.svg
-          curl -L https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg -o dist/github-contribution-grid-snake-dark.svg
+          git config --global user.name "ShaikAfrid1"
+          git config --global user.email "your-email@example.com" # Replace with your email
+          git add dist/
+          git commit -m "🐍 Generated Snake Animation"
+          git push
