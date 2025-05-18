@@ -30,13 +30,16 @@ I don’t just write code — I craft experiences. Let’s create something amaz
 ![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikafrid1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafrid1&layout=compact&theme=radical)
 
-# ⚡ GitHub Contribution Snake
+# ⚡ GitHub Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://github.com/ShaikAfrid1/shaikafrid1/blob/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
+![Snake animation](dist/github-contribution-grid-snake.svg)
+
 
 # 🏆 Achievements:
 - 🌟 Completed multiple Frontend Projects.
