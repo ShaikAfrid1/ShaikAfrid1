@@ -30,6 +30,7 @@ I don’t just write code — I craft experiences. Let’s create something amaz
 ![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikafrid1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafrid1&layout=compact&theme=radical)
 
+![snake gif](https://github.com/shaikafrid1/shaikafrid1/blob/output/github-snake-dark.svg)
 
 # 🏆 Achievements:
 - 🌟 Completed multiple Frontend Projects.
